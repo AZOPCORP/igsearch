@@ -15,6 +15,6 @@
   "author": "azopcorp",
   "license": "WTFPL",
   "dependencies": {
-    "request": "^2.81.0"
+    "request": "^2.87.0"
   }
 }
